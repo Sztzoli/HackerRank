@@ -1,4 +1,4 @@
-package javainttostring;
+package inttostring;
 
 public class JavaIntToString {
     public static void main(String[] args) {

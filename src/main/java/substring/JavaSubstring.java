@@ -1,4 +1,4 @@
-package javasubstring;
+package substring;
 
 public class JavaSubstring {
 

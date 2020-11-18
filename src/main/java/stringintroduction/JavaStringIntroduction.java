@@ -1,4 +1,4 @@
-package javastringintroduction;
+package stringintroduction;
 
 public class JavaStringIntroduction {
 

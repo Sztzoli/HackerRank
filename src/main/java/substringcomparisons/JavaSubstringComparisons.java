@@ -1,4 +1,4 @@
-package javasubstringcomparisons;
+package substringcomparisons;
 
 public class JavaSubstringComparisons {
     public void program(String s, int k){
